@@ -1,3 +1,5 @@
+##plain wave analysis
+
 Comput_R_T_poro_poro.m computes the Reflection/Transmission (R/T) coefficients of different angles at an interface that separate two different porous media.\
 
 Example output for the poroelastic interface:\
